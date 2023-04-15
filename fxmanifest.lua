@@ -4,8 +4,8 @@ game 'gta5'
 
 description 'ESX DMV School'
 
-version '1.0'
-legacyversion '1.9.1'
+version '2.0'
+legacyversion '1.9.4'
 
 lua54 'yes'
 
